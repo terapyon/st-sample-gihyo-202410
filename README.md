@@ -2,6 +2,14 @@
 
 Streamlitのサンプルアプリ
 
+## セットアップと起動
+
+```
+(venv) $ pip install -r requirements.txt
+(venv) $ streamlit run choice_app.py  # 文字変換アプリ
+(venv) $ streamlit run dice_app.py  # サイコロアプリ
+```
+
 
 ## 文字の変換アプリ
 
