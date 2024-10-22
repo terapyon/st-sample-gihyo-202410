@@ -1,7 +1,7 @@
 import random
 import streamlit as st
 
-st.title("文字列を選択するアプリ")
+st.title("文字列から単語を選択するアプリ")
 # 入力ボックス
 text = st.text_input("スペース区切りで単語を入力してください。")
 # スペース区切りでリスト化
